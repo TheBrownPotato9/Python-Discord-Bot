@@ -44,11 +44,7 @@ async def on_message(message):
     
 
 keep_alive()
-token = "ODY5MjU0NDkyMTYyNTIzMjM4.YP7iVA.gkPwYkf5jcIeq8hA9W4hzfjyTVQ"
+token = "this is supposed to be token pls don't hack me"
 client.run(token)
-client.run("ODY5MjU0NDkyMTYyNTIzMjM4.YP7iVA.gkPwYkf5jcIeq8hA9W4hzfjyTVQ")
+client.run("this is also supposed to be token")
 
-#background task
-var = 0
-while var >-1:
-  var +=1
