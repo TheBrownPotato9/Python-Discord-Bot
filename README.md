@@ -5,7 +5,10 @@ This is a bot that runs Python Code
 Technologies Used:
 Python 3.8.2,
 Discord.py,
-Python Sys Module
+Python Sys Module, 
+Flask,
+Thread, 
+Uptime Robot
 
 Add Python Bot to your server!
 
