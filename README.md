@@ -3,8 +3,8 @@
 This is a bot that runs Python Code
 
 Technologies Used:
-Python 3.8.2
-Discord.py
+Python 3.8.2,
+Discord.py,
 Python Sys Module
 
 Add Python Bot to your server!
