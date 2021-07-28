@@ -17,3 +17,11 @@ Link: https://discord.com/api/oauth2/authorize?client_id=869254492162523238&perm
 Please leave suggestions!
 
 Also currently trying to add input functions and error display
+
+HOW TO USE:
+
+1. Invite bot to your server by clicking the link above and selecting the server
+2. To start running code, use Discord's python formatting by starting the message with "```python" and ending it with "```" as shown below ![Uploading image.png…]()
+![Img1](https://user-images.githubusercontent.com/80228068/127362265-377452d3-26a6-4950-a291-64e50c90a683.png)
+
+
