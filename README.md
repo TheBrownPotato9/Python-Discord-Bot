@@ -12,7 +12,7 @@ Uptime Robot
 
 Add Python Bot to your server!
 
-Link: https://discord.com/api/oauth2/authorize?client_id=869254492162523238&permissions=0&scope=bot
+
 
 Please leave suggestions!
 
